@@ -1,0 +1,38 @@
+* {
+    background-color: rgb(204, 242, 252);
+}
+
+.container {
+    text-align: center;
+    
+}
+
+.content-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-link {
+    margin-top: 20px;
+}
+
+.main-img {
+    margin-top: 25px;
+    height: 200px;
+    width: 500px;
+
+}
+
+.card {
+    /* border: 1px solid rgba(61, 61, 61, 0.459); */
+    /* position: absolute; */
+    width: 375px;
+}
